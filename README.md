@@ -12,3 +12,6 @@ For Test Purpose
 10) [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day010.md)
 11) [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day011.md)
 12) [Given three integers, print the least of them.](Day012.md)
+13) [Write a program that receives a number on the input.
+If the number is a multiple of 3, it prints "Jugs". 
+Otherwise, it prints the number.](Day013.md)
